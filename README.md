@@ -1,6 +1,6 @@
 # SwiftClicker
 
-Finally, a modern, lightweight, and free autoclicker for macOS. Built in Swift with a focus on speed, simplicity, and great design.
+Finally, a modern, lightweight, and open source autoclicker for macOS. Built in Swift with a focus on speed, simplicity, and great design.
 
 ## Requirements
 
