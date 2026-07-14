@@ -8,7 +8,9 @@ Finally, a modern, lightweight, and free autoclicker for macOS. Built in Swift w
 
 ## App preview
 
+<p align="center">
 <img width="351" height="413" alt="Screenshot 2026-07-14 at 20 15 15" src="https://github.com/user-attachments/assets/e0301e21-ff4a-461e-ab27-a00998392a76" />
+</p>
 
 ## Requirements
 
